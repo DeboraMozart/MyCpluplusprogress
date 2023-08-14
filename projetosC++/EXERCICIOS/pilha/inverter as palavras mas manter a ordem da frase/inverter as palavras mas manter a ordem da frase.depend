@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1687383148 source:c:\users\hp\desktop\liguagemc++\projetosc++\exercicios\pilha\inverter as palavras mas manter a ordem da frase\main.cpp
+	<iostream>
+	<stack>
+	<string>
+

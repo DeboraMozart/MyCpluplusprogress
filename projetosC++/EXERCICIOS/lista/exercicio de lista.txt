@@ -1,0 +1,65 @@
+Claro! Aqui estão alguns enunciados de exercícios envolvendo listas em C++:
+
+1. Exercício de criação e manipulação de listas:
+   - Crie uma lista vazia de números inteiros.
+   - Permita que o usuário insira 5 números inteiros na lista.
+   - Imprima os elementos da lista na ordem em que foram inseridos.
+   - Imprima os elementos da lista na ordem inversa.
+
+2. Exercício de busca e remoção de elementos em lista:
+   - Crie uma lista com os números de 1 a 10.
+   - Solicite que o usuário informe um número.
+   - Verifique se o número está presente na lista e informe ao usuário.
+   - Caso o número esteja na lista, remova-o.
+   - Imprima os elementos atualizados da lista.
+
+3. Exercício de ordenação de elementos em lista:
+   - Crie uma lista com 10 números inteiros aleatórios.
+   - Ordene a lista em ordem crescente.
+   - Imprima os elementos da lista ordenada.
+
+4. Exercício de mesclagem de listas:
+   - Crie duas listas, cada uma com 5 números inteiros.
+   - Crie uma terceira lista vazia.
+   - Insira os elementos das duas primeiras listas na terceira lista, alternando um elemento de cada lista.
+   - Imprima os elementos da terceira lista.
+
+5. Exercício de contagem de elementos em lista:
+   - Crie uma lista com valores repetidos.
+   - Solicite ao usuário um número.
+   - Conte quantas vezes o número aparece na lista.
+   - Imprima a quantidade de ocorrências encontradas.
+
+Esses são apenas alguns exemplos de exercícios envolvendo listas em C++. Você pode adaptar os enunciados conforme necessário e implementar a solução correspondente em C++.
+
+Com certeza! Aqui estão alguns exercícios mais desafiadores envolvendo listas em C++:
+
+1. Exercício de inversão de elementos em uma lista:
+   - Crie uma lista com os números de 1 a 10.
+   - Implemente um algoritmo para inverter a ordem dos elementos na lista.
+   - Imprima os elementos da lista após a inversão.
+
+2. Exercício de remoção de elementos duplicados em uma lista:
+   - Crie uma lista com valores inteiros aleatórios.
+   - Implemente um algoritmo para remover os elementos duplicados da lista, mantendo apenas uma ocorrência de cada valor.
+   - Imprima os elementos atualizados da lista, sem duplicatas.
+
+3. Exercício de interseção de duas listas:
+   - Crie duas listas, cada uma com números inteiros.
+   - Implemente um algoritmo para encontrar os elementos que estão presentes nas duas listas.
+   - Armazene os elementos em uma terceira lista.
+   - Imprima os elementos da lista de interseção.
+
+4. Exercício de concatenação de listas ordenadas:
+   - Crie duas listas ordenadas em ordem crescente.
+   - Implemente um algoritmo para concatenar as duas listas, mantendo a ordem crescente.
+   - Armazene os elementos em uma terceira lista.
+   - Imprima os elementos da lista concatenada.
+
+5. Exercício de pesquisa binária em uma lista ordenada:
+   - Crie uma lista com números inteiros em ordem crescente.
+   - Solicite ao usuário um valor para buscar na lista.
+   - Implemente um algoritmo de pesquisa binária para encontrar o valor na lista.
+   - Informe ao usuário se o valor foi encontrado ou não.
+
+Esses exercícios são um pouco mais complexos e podem exigir um conhecimento mais avançado de programação em C++. Espero que eles te desafiem e inspirem a explorar mais sobre o uso de listas nessa linguagem!

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1687987336 source:c:\users\hp\desktop\liguagemc++\projetosc++\exercicios\fila\inverter os elementos da fila\main.cpp
+	<iostream>
+	<queue>
+

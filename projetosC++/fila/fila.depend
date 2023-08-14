@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1686086507 source:c:\users\hp\desktop\liguagemc++\projetosc++\fila\main.cpp
+	<iostream>
+	<queue>
+

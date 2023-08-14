@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1684788646 source:c:\users\hp\desktop\liguagemc++\projetosc++\exercicios\função\dado\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+

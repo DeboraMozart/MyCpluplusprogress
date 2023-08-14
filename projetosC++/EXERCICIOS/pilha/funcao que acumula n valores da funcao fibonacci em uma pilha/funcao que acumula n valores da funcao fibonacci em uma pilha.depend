@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1687985265 source:c:\users\hp\desktop\liguagemc++\projetosc++\exercicios\pilha\funcao que acumula n valores da funcao fibonacci em uma pilha\main.cpp
+	<iostream>
+	<stack>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1688671945 source:c:\users\hp\desktop\liguagemc++\projetosc++\exercicios\lista\excluindo valores iguais na lista\main.cpp
+	<iostream>
+	<list>
+	<random>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1687812729 source:c:\users\hp\desktop\liguagemc++\projetosc++\exercicios\pilha\confirmar se duas pilhas sao iguas\main.cpp
+	<iostream>
+	<stack>
+

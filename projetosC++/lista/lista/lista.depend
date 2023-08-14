@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1686945811 source:c:\users\hp\desktop\liguagemc++\projetosc++\lista\lista\main.cpp
+	<iostream>
+	<list>
+

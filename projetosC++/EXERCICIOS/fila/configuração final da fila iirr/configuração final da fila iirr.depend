@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1688392732 source:c:\users\hp\desktop\liguagemc++\projetosc++\exercicios\fila\configuração final da fila iirr\main.cpp
+	<iostream>
+	<queue>
+	<string>
+

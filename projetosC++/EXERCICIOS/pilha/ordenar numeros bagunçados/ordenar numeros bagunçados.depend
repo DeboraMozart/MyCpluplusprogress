@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1687465745 source:c:\users\hp\desktop\liguagemc++\projetosc++\exercicios\pilha\ordenar numeros bagunçados\main.cpp
+	<iostream>
+	<stack>
+

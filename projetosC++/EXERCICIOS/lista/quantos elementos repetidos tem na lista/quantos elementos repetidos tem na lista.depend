@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1688763914 source:c:\users\hp\desktop\liguagemc++\projetosc++\exercicios\lista\quantos elementos repetidos tem na lista\main.cpp
+	<iostream>
+	<list>
+	<random>
+

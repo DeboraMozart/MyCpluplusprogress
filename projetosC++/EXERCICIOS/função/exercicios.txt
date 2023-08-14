@@ -1,0 +1,20 @@
+01. Crie um programa que recebe dois lados menores de um triângulo retângulo e uma função retorna o valor da hipotenusa.
+02. Crie um programa que recebe os três lados de um triângulo, passa esses valores para uma função que diz se esse triângulo existe ou não (pela condição da existência do triângulo, cada lado deve ser maior que o módulo da subtração dos outros dois lados e deve ser menor que a soma dos outros dois lados)
+03. Faça um programa que peça um número inteiro positivo 'n' para o usuário e imprima um quadrado de lado 'n' preenchido de hashtags. Por exemplo, para n=4, deve aparecer na tela:
+####
+####
+####
+####
+
+04. Programe um software que recebe três números, para para uma função e ela retorna o maior deles. Faça outra função que recebe os mesmos números e retorna o menor deles.
+05. Um número é dito ser perfeito quando ele é igual a soma de seus divisores.
+Por exemplo, o seis é perfeito, pois: 6 = 1 + 2 + 3
+Programa um software que pede um número ao usuário e diga se ele é perfeito ou não.
+06. Crie um software que recebe um número do usuário, passa esse valor para uma função e ela retorna esse número escrito ao inverso. Por exemplo, você deu o valor 1234, então ele vai retornar 4321. Dica: primeiro, crie uma função que conta quantos dígitos tem um número.
+07. Faça um programa para lançar uma moeda. Quando chamamos uma função, ela deve retorna cara ou coroa. Em outra função, faça 'n' lançamentos de moedas, 'n' é o valor que o usuário quiser, e mostre a porcentagem de vezes que deu cara e coroa. Se você jogar a moeda 10, 100, 1000, um milhão de vezes...o que tende a acontecer?
+08. Crie um dado em C++. Role o dado: ou seja, uma função deve sortear um número aleatório de 1 até 6. Agora, faça com que o dado anterior seja lançado 100 vezes, mil vezes e 1 milhão de vezes. A cada vez que ele rodar, você deve armazenar o valor que ele forneceu, ao final, você mostra quantas vezes cada número foi sorteado. Bate com os resultados da estatística ?
+09. Crie um jogo de par ou ímpar. Você deve escolher 0 para par ou 1 para ímpar, em seguida fornece um número. O computador gera um número de 0 até 10, soma os valores e diz quem ganhou, além de mostrar o placar e perguntar se quer jogar mais uma rodada.
+Como fazer o jogo Par ou Ímpar em C++
+10. Aos moldes do jogo par ou ímpar, crie o jogo do Pedra, Papel ou Tesoura, em C++.
+11. Crie um jogo onde o computador sorteia um número de 1 até 10, e você tenta adivinhar qual é.
+12. Vamos incrementar o jogo anterior? Faça com que o programa diga dizer quantas tentativas você levou para acertar. Faça com o que o computador sorteie um número de 1 até 100. A cada vez que você chutar, ele deve dizer se você chutou abaixo do valor real, acima ou se acertou. Ao final, diz o número de tentativas que você teve e se bateu o record ou não. Ah, ao final de cada rodada, o programa pergunta se você quer jogar novamente ou não, exibindo o record atual.

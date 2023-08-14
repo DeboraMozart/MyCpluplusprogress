@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1684248845 source:c:\users\hp\desktop\liguagemc++\projetosc++\exercicios\jogo da forca\main.cpp
+	<iostream>
+	<cstring>
+	<cstdlib>
+	<cmath>
+

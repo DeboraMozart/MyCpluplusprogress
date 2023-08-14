@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1688846100 source:c:\users\hp\desktop\liguagemc++\projetosc++\exercicios\lista\numeros em comuns nas duas listas\main.cpp
+	<iostream>
+	<list>
+	<random>
+

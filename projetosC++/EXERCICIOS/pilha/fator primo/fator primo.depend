@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1687290883 source:c:\users\hp\desktop\liguagemc++\projetosc++\exercicios\pilha\fator primo\main.cpp
+	<iostream>
+	<stack>
+

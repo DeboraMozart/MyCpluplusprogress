@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1685370061 source:c:\users\hp\desktop\liguagemc++\projetosc++\exercicios\função\tentando advinhar o num do comp com mais features\main.cpp
+	<iostream>
+	<random>
+	<cstring>
+

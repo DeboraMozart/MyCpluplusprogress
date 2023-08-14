@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1687377083 source:c:\users\hp\desktop\liguagemc++\projetosc++\exercicios\pilha\invertendo caracteres\main.cpp
+	<iostream>
+	<stack>
+

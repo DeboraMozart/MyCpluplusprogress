@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1689087545 source:c:\users\hp\desktop\liguagemc++\projetosc++\exercicios\lista\pesquisa binaria\main.cpp
+	<iostream>
+	<list>
+	<random>
+

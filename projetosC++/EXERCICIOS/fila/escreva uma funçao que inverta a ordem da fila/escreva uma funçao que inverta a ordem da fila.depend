@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1686324061 source:c:\users\hp\desktop\liguagemc++\projetosc++\exercicios\fila\escreva uma funçao que inverta a ordem da fila\main.cpp
+	<iostream>
+	<queue>
+	<stack>
+

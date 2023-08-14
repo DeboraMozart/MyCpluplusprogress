@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1688160004 source:c:\users\hp\desktop\liguagemc++\projetosc++\exercicios\fila\implementar duas filas em outra na ordem crescente\main.cpp
+	<iostream>
+	<queue>
+

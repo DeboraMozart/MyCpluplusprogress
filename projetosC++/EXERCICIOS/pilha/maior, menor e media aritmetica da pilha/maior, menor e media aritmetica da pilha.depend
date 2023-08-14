@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1687794882 source:c:\users\hp\desktop\liguagemc++\projetosc++\exercicios\pilha\maior, menor e media aritmetica da pilha\main.cpp
+	<iostream>
+	<stack>
+

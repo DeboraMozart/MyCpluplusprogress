@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1687811225 source:c:\users\hp\desktop\liguagemc++\projetosc++\exercicios\pilha\se p1 tem mais elementos que p2\main.cpp
+	<iostream>
+	<stack>
+

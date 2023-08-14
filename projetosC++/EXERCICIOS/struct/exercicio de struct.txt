@@ -1,0 +1,80 @@
+1. A partir do trecho de código abaixo, complete o programa criando as funções que faltam.
+
+
+#include <iostream>
+
+using namespace std;
+
+typedef struct{
+   int matricula;
+   float notas[3];
+
+}Aluno;
+
+int main()
+{
+    Aluno Turma[5];
+
+    for(i=0; i< 5; i++)
+    {
+        LeAluno(.......);  // função que lê de teclado
+                           // os dados do aluno
+
+    }
+    ImprimeTurma(Turma); Função que imprime os dados de todos os alunos
+
+
+    for(i=0; i< 5; i++)
+    {
+        media = CalculaMediaAluno(.......);// função que calcula a média das notas de um aluno
+                                             
+        printf("Aluno %d  - Media = %f\n"); // imprime os dados do aluno
+
+    }
+    return 0;
+}
+
+
+
+2. Crie um programa que permita armazenar o nome, a altura e da data de nascimento de até 10 pessoas. 
+Cada pessoa deve ser representada por uma struct dentro de um vetor. 
+
+A data de nascimento também deve ser uma struct.
+
+O nome e a altura de cada pessoa devem ser informados pelo teclado.
+
+A geração da data de nascimento deve ser feita aleatoriamente através da função abaixo
+
+void CriaData(Data &D)
+{
+   D.Mes = 1 + (rand() % 12);
+   D.Ano = 1950 + (rand() % 49);
+   D.Dia = 1 + (rand() % 30);
+}
+O programa deve, na tela de abertura, apresentar opções para:
+
+inserir um nome;
+listar todos os nomes e respectivas alturas;
+listar os nomes das pessoas que nasceram antes de uma certa data fornecida.
+
+3.Escreva um trecho de codigo para fazer a criac¸ ´ ao dos novos tipos de dados conforme ˜
+solicitado abaixo:
+• Horario: composto de hora, minutos e segundos. ´
+• Data: composto de dia, mes e ano. ˆ
+• Compromisso: composto de uma data, horario e texto que descreve o compromisso. 
+
+4.Implemente um programa que leia o nome, a idade e o enderec¸o de uma pessoa e
+armazene os dados em uma estrutura.
+
+5.Considerando a estrutura
+struct Vetor{
+float x;
+float y;
+float z;
+};
+para representar um vetor no R3
+, implemente um programa que calcule a soma de dois
+vetores.
+
+6.
+

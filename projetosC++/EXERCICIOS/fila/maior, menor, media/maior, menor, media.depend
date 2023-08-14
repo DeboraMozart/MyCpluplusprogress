@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1688065345 source:c:\users\hp\desktop\liguagemc++\projetosc++\exercicios\fila\maior, menor, media\main.cpp
+	<iostream>
+	<queue>
+

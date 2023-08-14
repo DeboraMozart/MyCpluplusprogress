@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1685025992 source:c:\users\hp\desktop\liguagemc++\projetosc++\exercicios\função\jogo par ou impar\main.cpp
+	<iostream>
+	<ctime>
+	<cstdlib>
+	<cstring>
+

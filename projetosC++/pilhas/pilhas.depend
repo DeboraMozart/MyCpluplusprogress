@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1686080818 source:c:\users\hp\desktop\liguagemc++\projetosc++\pilhas\main.cpp
+	<iostream>
+	<stack>
+

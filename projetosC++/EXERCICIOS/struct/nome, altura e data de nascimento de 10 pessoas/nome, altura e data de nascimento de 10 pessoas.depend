@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1690035571 source:c:\users\hp\desktop\liguagemc++\projetosc++\exercicios\struct\nome, altura e data de nascimento de 10 pessoas\main.cpp
+	<iostream>
+	<ctime>
+	<cstdlib>
+

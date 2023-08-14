@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1687899649 source:c:\users\hp\desktop\liguagemc++\projetosc++\exercicios\pilha\fila de pilhas\main.cpp
+	<iostream>
+	<stack>
+	<queue>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1683211328 source:c:\users\hp\desktop\liguagemc++\projetosc++\exercicios\do while\nome,idade,sexo,salario\main.cpp
+	<iostream>
+	<stdio.h>
+	<cstring>
+

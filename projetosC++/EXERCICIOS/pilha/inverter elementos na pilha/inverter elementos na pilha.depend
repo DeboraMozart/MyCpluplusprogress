@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1687794376 source:c:\users\hp\desktop\liguagemc++\projetosc++\exercicios\pilha\inverter elementos na pilha\main.cpp
+	<iostream>
+	<stack>
+

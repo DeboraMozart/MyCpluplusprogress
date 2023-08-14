@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1688758140 source:c:\users\hp\desktop\liguagemc++\projetosc++\exercicios\lista\mesclando lista e alternando um elemento de cada\main.cpp
+	<iostream>
+	<list>
+	<random>
+

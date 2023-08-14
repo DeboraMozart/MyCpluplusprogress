@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1687461988 source:c:\users\hp\desktop\liguagemc++\projetosc++\exercicios\pilha\verificar se uma palavra é um palindromo\main.cpp
+	<iostream>
+	<stack>
+
